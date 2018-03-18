@@ -1,0 +1,18 @@
+{
+  "name": "poke-api-static-data",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "tdd": "jest --watchAll"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "babel-core": "^6.26.0",
+    "babel-jest": "^23.0.0-alpha.0",
+    "babel-preset-env": "^1.6.1",
+    "jest": "^22.4.2",
+    "regenerator-runtime": "^0.11.1"
+  }
+}
